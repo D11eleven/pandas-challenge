@@ -2,4 +2,5 @@
 Pandas Homework - Pandas, Pandas, Pandas
 
 
-This is initial commit for HW Project4 - PyCitySchools. 
+Added Resource Folder with StudentCSV and SchoolCSV files
+Also Added PyCitySchool Starter Jupyter Notebook
