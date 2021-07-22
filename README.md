@@ -2,5 +2,4 @@
 Pandas Homework - Pandas, Pandas, Pandas
 
 
-Added Resource Folder with StudentCSV and SchoolCSV files
-Also Added PyCitySchool Starter Jupyter Notebook
+Performed Preliminary Data Analysis on merged Schools/Students .CSVs (school_data_complete) 
