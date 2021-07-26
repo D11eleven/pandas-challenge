@@ -2,5 +2,6 @@
 Pandas Homework - Pandas, Pandas, Pandas
 
 
-Incremental Save -  Wrking School Summary
-Previewing other Sections 
+Incremental Save -  Wrking School Summary  - calculating summary variables
+
+
