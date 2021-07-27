@@ -2,7 +2,9 @@
 Pandas Homework - Pandas, Pandas, Pandas
 
 
-Incremental Save -  Finished  Scores by Spending -  Calculations a bit off - need to fix 
+Incremental Save -  Final Section  -- wrking  -- had to redo logic due to calculations being slightly off --
+identified mistake ...  reworking ...  calcs look good in  spending section  2 sections to go  
+					
 
 
 
