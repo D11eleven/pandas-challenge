@@ -2,8 +2,8 @@
 Pandas Homework - Pandas, Pandas, Pandas
 
 
-Incremental Save -  Final Section  -- wrking  -- had to redo logic due to calculations being slightly off --
-identified mistake ...  reworking ...  calcs look good in  spending section  2 sections to go  
+Incremental Save -  Final Section  -- wrking  --  error involving "school type" preventing groupby... 
+needing to rework logic or find error 
 					
 
 
